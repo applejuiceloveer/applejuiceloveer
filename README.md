@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Java JEE,React,Docker**
 
-- 👨‍💻 All of my projects are available at [(link soon)]((link soon))
+- 👨‍💻 All of my projects are available at ((link soon))
 
 - 📫 How to reach me **azzouzi.omar01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
